@@ -32,10 +32,39 @@
   - fluttertoast
   - shared_preferences
 
-### To run the project
-<code> flutter pub get</code>
-<br/>
-<code> flutter run</code>
-
 ## Screenshots 
-![Group 774](https://www.figma.com/file/1X9QcuLplrPqloUP1iABfd/Untitled?node-id=0%3A1&t=4UwTlOBLLOHPq5xi-1)
+- Splash Screen
+
+  <img src="https://i.postimg.cc/y8CGB4X9/splash.jpg" width="30%">
+
+- Login Screen
+
+  <img src="https://i.postimg.cc/fy6rJ1GG/login.jpg" width="30%">
+
+- Register Screen
+
+  <img src="https://i.postimg.cc/9fpKJ899/regis.jpg" width="30%">
+
+- Home Screen
+
+  <img src="https://i.postimg.cc/L61Wr6f2/home1.jpg" width="30%">
+
+- Cart Screen
+
+  <img src="https://i.postimg.cc/Xv3tKSr3/cart.jpg" width="30%">
+
+- Detail Product Screen
+
+  <img src="https://i.postimg.cc/44VtqmwJ/deskripsi.jpg" width="30%">
+
+- Transaction Screen
+
+  <img src="https://i.postimg.cc/sXg88YPN/checkout.jpg" width="30%">
+
+- Detail Transaction Screen
+
+  <img src="https://i.postimg.cc/fRpm1m4R/transaksi.jpg" width="30%">
+
+- Profile Screen
+
+  <img src="https://i.postimg.cc/qqtFBp5c/profile.jpg" width="30%">
